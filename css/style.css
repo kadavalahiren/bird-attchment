@@ -12,37 +12,57 @@ html,body{
 }
 .img2{
     height: 100%;
-    background-image: url(../image/1.PNG);
+    background-image: url(../image/01.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .img3{
     height: 100%;
-    background-image: url(../image/2.PNG);
+    background-image: url(../image/02.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .img4{
     height: 100%;
-    background-image: url(../image/3.PNG);
+    background-image: url(../image/03.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .img5{
     height: 100%;
-    background-image: url(../image/4.PNG);
+    background-image: url(../image/04.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .img6{
-   height: 100%;
-    background-image: url(../image/5.PNG);
+    height: 100%;
+    background-image: url(../image/05.png);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; 
+    background-attachment: fixed;
 }
-    
+.img7{
+    height: 100%;
+    background-image: url(../image/06.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.img8{
+    height: 100%;
+    background-image: url(../image/07.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.img9{
+    height: 100%;
+    background-image: url(../image/08.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
